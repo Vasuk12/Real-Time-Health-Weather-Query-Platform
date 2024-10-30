@@ -19,6 +19,7 @@ In the latter half of the 1990s and the middle of the 2000s, chatbots gained gre
 Chatbot technology advanced significantly after Facebook Messenger's chatbot framework was introduced in 2016. This platform gave developers the ability to create chatbots that could communicate with users within the Facebook Messenger programme, giving businesses more opportunity to automate customer service, deliver personalized content, and facilitate online commercial transactions. Chatbots' increased usability and accessibility allowed for a smoother conversational experience.
 
 II.	LITERATURE REVIEW
+
 In paper [1] the authors state that “Natural Language Processing (NLP)” is an approach for computer-assisted text analysis. NLP includes obtaining information about how people use and comprehend language.
 In paper [2] the authors describe that putting NLP into practise entails starting the process of learning through organic development in educational settings. It is based on strategies that work well in finding solutions to a
  
@@ -44,6 +45,7 @@ In paper [18] the authors suggest new goals, more complex models, and innovative
 In paper [19] the authors state that due to the ever- growing number of scientific journals, it is still difficult to understand the current research trends, issues, and creative solutions.
 
 III.	RESEARCH METHODOLOGY
+
 a)	Sentiment Analysis
 A technique for determining the emotional tone of a text, which might be positive, negative, or neutral. It requires evaluating words and phrases to identify the overall sentiment expressed in the text. This technique is commonly used in a range of fields, such as social media monitoring, consumer feedback analysis, and market research.
 b)	Accurate response
@@ -84,6 +86,7 @@ Fig 1: The image depicts a natural language processing (NLP) system, where user 
 
 
 IV.	RESULTS AND DISCUSSION
+
 a)	Training on Diverse Dataset
 I ensured that my chatbot's training dataset featured a diverse range of topics and conversational styles relevant to its goal. This diversity allows the bot in figuring out and reacting correctly to varied user requests.
  
@@ -111,6 +114,7 @@ When a chatbot faces a question that it cannot answer, it is programmed to recog
 Fig 5: Input not recognized
  
 CONCLUSION
+
 To conclude, the introduction of chatbot technology, aided by advances in artificial intelligence (AI) and natural language processing (NLP), has changed the way humans communicate with machines. Chatbots have progressed from rule-based chatbots to complicated self- learning models, making them helpful tools in a wide range of industries by offering users instruction, support, and interaction. Despite their rapid development, chatbots still have limitations, such as language processing constraints and functional restrictions. Nonetheless, ongoing research and development efforts are helping to improve chatbot capabilities, paving the way for more seamless and successful human-machine interactions. The literature review also highlights the diverse uses of NLP and chatbots, ranging from sentiment analysis to named entity identification, highlighting the technology's breadth and potential. As we move forward, it will be vital to integrate chatbots into existing systems, prioritise user experience, and ensure future expansion and maintenance. Overall, chatbots are a dynamic and changing subject with many opportunities for innovation and improvement in the next years.
 
 ![image](https://github.com/user-attachments/assets/612c1134-7f50-4436-a906-743082de165d)
